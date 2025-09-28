@@ -1,12 +1,31 @@
-# React + Vite
+# 🏨 The Wild Oasis
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A hotel management dashboard app for managing bookings, guests, and cabins. Built as a capstone project with Supabase backend.
 
-Currently, two official plugins are available:
+## ✨ Features
+- 🔑 Authentication & user accounts  
+- 🛏️ Manage cabins, guests, and bookings  
+- 📊 Dashboard with charts and statistics  
+- 💾 Supabase as backend (auth + DB + storage)  
+- 🎨 Fully responsive modern UI  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React  
+- React Query  
+- React Router  
+- Supabase  
+- Tailwind CSS / Styled Components  
 
-## Expanding the ESLint configuration
+## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/d23eeebc-c705-48bd-ae54-51ebc0a794d1)
+![image (1)](https://github.com/user-attachments/assets/02da02b2-025c-41bd-8a43-e5d829385f25)
+![image (2)](https://github.com/user-attachments/assets/bfb8c891-0e3d-41b0-8d60-f32b34ec1d69)
+![image (3)](https://github.com/user-attachments/assets/829eb4e2-d63c-4ba1-a2a3-2a879890c175)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+ 
+## 🚀 Getting Started
+```bash
+git clone https://github.com/Ahmed-Mamdoh/the-wild-oasis.git
+cd the-wild-oasis
+npm install
+npm run dev
