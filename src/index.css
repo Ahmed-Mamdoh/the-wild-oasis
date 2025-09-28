@@ -34,6 +34,12 @@ body {
   /* IE and Edge */
   scrollbar-width: none;
   /* Firefox */
+  overflow-x: hidden;
+
+  /* For Webkit-based browsers (Chrome, Safari and Opera) */
+  ::-webkit-scrollbar {
+    display: none;
+  }
 }
 
 body::-webkit-scrollbar {
