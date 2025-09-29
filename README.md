@@ -26,9 +26,5 @@ A hotel management dashboard app for managing bookings, guests, and cabins. Buil
 ![image (3)](https://github.com/user-attachments/assets/829eb4e2-d63c-4ba1-a2a3-2a879890c175)
 
  
-## 🚀 Getting Started
-```bash
-git clone https://github.com/Ahmed-Mamdoh/the-wild-oasis.git
-cd the-wild-oasis
-npm install
-npm run dev
+##🌐 Live Demo
+[The Wild Oasis](https://the-wild-oasis-beta-liard.vercel.app/dashboard)
